@@ -1,30 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@pkej
-pkej /
-OBSInfoWriter
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-OBSInfoWriter/.github/workflows/build.yml
-@exeldro
-exeldro OBS version 28 support (#8)
-Latest commit accf692 8 days ago
-History
-1 contributor
-337 lines (320 sloc) 14.7 KB
 name: build obs plugin
 
 on:

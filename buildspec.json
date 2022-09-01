@@ -78,6 +78,6 @@
             "qtVersion": 6
         }
     },
-    "name": "scene-collection-manager",
-    "version": "0.0.8"
+    "name": "OBSInfoWriter",
+    "version": "2.9.0"
 }

@@ -326,19 +326,3 @@ jobs:
         uses: geekyeggo/delete-artifact@v1
         with:
           name: "${{ env.FILE_NAME_X86 }}\n${{ env.FILE_NAME_X64 }}\ninstaller-files"
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
